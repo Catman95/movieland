@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#navbar {
+    background-color: #13151d;
+    #logo {
+        color: #007bff;
+    }
+}
+
+#main-row {
+    div:first-child {
+        background-color: #1D2026;
+    }
+    div:last-child {
+        background-color: #0E39AF;
+    }
+    color: #9fcdff;
+}
