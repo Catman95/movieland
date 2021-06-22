@@ -1,3 +1,3 @@
-@include('fixed.top')
-@yield('content')
-@include('fixed.bottom')
+@include('inc/top')
+@yield('sadrzaj')
+@include('inc/bottom')
